@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+div{
+	width:1020px;
+	background-color:#CF3;
+	margin:auto;
+}
+#main
+{
+	width:670px;
+	margin-left:350px;
+}
+
+img{
+	margin:auto;
+}

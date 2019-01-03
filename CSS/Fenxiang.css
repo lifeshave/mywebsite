@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url(../image/Fenxiangbg.jpg);
+}
+div{
+	width:450px;
+	margin:auto;
+}
+h1{
+	color:#FFF;
+}
+a{
+	color:#FFF;
+	letter-spacing:5px;
+	font-size:24px;
+}
+li{
+	color:#FFF;
+}

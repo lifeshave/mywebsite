@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+#content
+{
+	background-image:url(../image/background.jpg);
+	width:1020px;
+	margin:auto;
+}
+#main
+{
+	background-image:url(../image/background.jpg);
+	width:1020px;
+	height:500px;
+}
+#left
+{
+	width:810px;
+	height:500px;
+	display:block;
+	float:left;
+}
+#left-left
+{
+	width:210px;
+	height:500px;
+	float:left;
+}
+#zhuye
+{
+	width:210px;
+	height:80px;
+}
+.daohang
+{
+	width:210px;
+	height:60px;
+	float:left;
+}
+#left-right
+{
+	width:600px;
+	height:500px;
+	float:right;
+	display:block;
+}
+	
+#right
+{
+	width:210px;
+	height:500px;
+	float:right;
+}
+.right1
+{
+	width:210px;
+	height:150;
+	float:right;
+	background-color:#FFF;
+}
+#footer
+{
+	width:1020px;
+	height:100px;
+}
+p
+{
+	font-size:20px;
+}

@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url(../image/Yinyuehebg.jpg);
+	color:#000;
+}
+#box
+{
+	width:1020px;
+	margin:auto;
+	font-size:24px;
+}
+#main
+{
+	width:800px;
+	margin:auto;
+	border:5px;
+}
+h1{
+	color:#9F0;
+}
+#left
+{	border:5px;
+	float:left;
+	color:#000;
+}
+#right{
+	border:5px;
+	float:right;
+	color:#FFF;
+	}

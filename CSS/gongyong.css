@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+div{
+	width:1020px;
+	background-color:#CF3;
+	margin:auto;
+}
+p{  font-style:italic;
+	text-indent:32px;
+	letter-spacing:5px;
+	font-size:18px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}

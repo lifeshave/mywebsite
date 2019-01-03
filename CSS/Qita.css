@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url(../image/Qitabg.jpg);
+}
+div{
+	width:450px;
+	margin:auto;
+}
+h1{
+	color: #9F6;
+}
+a{
+	color:#9F6;
+	letter-spacing:5px;
+	font-size:24px;
+}
+li{
+	color:#FFF;
+}

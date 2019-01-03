@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-image:url(../image/Shipinbg.jpg);
+}
+#box{
+	width:1020px;
+	margin:auto;
+}
+#main{
+	width:800px;
+	margin:auto;
+}
+a{
+	font-size:24px;
+}

@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{background-image:url(../image/shcdwzhbg.jpg);
+}
+div
+{	
+    width:300px;
+    margin-top:300px;
+	margin:auto;
+}
+a{
+	color:#000;
+}
